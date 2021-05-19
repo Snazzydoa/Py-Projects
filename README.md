@@ -1,6 +1,6 @@
 # Py-Projects
 
-This is a project done with Jupyter Notebook which is an open document format based on JSON.
+This is a project done with Jupyter Notebook, an open document format based on JSON.
 
 
 
