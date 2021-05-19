@@ -10,7 +10,7 @@ This project was carried out to visualize the datasets within the 'Automobile_pr
 
 
 # Presentations
-Bar charts were used to show the relationships between some selected datasets within the input spreadsheet.
+Bar charts were used to visualize some selected datasets within the input spreadsheet.
 
 
 # What to Look out for
