@@ -17,6 +17,6 @@ Bar charts were used to visualize some selected datasets within the input spread
 
 There is an extra Spreadsheet document with the filename 'GNSS Pricing'
 
-I am currently gathering the necessary information from GNSS equipment manufacturers' website about at least one of their models.
+I am currently gathering the necessary information from GNSS equipment manufacturers' website about at least one of their GNSS equipment models.
 
-The endresult would compare the pricing alongside other parameters necessary for a prospective buyer to decide on which is more accurate and affordable.
+The end result of the project would compare the pricing alongside other parameters necessary for a prospective buyer to decide on which is more accurate and affordable.
