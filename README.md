@@ -13,9 +13,7 @@ This project was carried out to visualize the datasets within the 'Automobile_pr
 
 Bar charts were used to visualize some selected datasets within the input spreadsheet. 
 
-Make, Fuel type, Aspiration, Number of doors, Body style, Drive wheels, Engine location, Engine type, Number of cylinders and fuel system were all plotted against their value 
-
-counts.
+Make, Fuel type, Aspiration, Number of doors, Body style, Drive wheels, Engine location, Engine type, Number of cylinders and fuel system were all plotted against their value counts.
 
 # What to Look out for
 
