@@ -6,7 +6,7 @@ This is a project done with Jupyter Notebook, an open document format based on J
 
 # About
 
-This project was carried out to visualize the datasets within the 'Automobile_price_data' spreadsheet.
+This project was carried out to visualize the datasets within the 'Automobile_price_data_Raw' spreadsheet.
 
 
 # Presentations
